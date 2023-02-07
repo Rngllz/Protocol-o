@@ -12,4 +12,5 @@ Seu desligamento possui uma contagem regressiva que pode ser interrompida durant
 
 Ele não é um bando de 'ifs' e 'elses'; possui machine-learning para a total compreensão dos comandos e suas semânticas.
 
+O CÓDIGO SERÁ DISPONIBILIZADO EM BREVE!
 AINDA FAREI O COMMIT DELE, ESTÁ MUITO GRANDE E O GITHUB NÃO PERMITE MANDAR POR ENQUANTO!!
